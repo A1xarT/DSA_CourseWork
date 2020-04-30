@@ -1,0 +1,2 @@
+D:\Docs\Курсач\x64\Debug\Course.exe
+D:\Docs\Курсач\x64\Debug\Course.pdb

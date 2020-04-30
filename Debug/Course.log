@@ -1,0 +1,12 @@
+﻿  Filling.cpp
+  Common_Vector.cpp
+  Main.cpp
+  Exchange1.cpp
+  Menu.cpp
+  Printing.cpp
+  Select4.cpp
+  Select6.cpp
+  Table.cpp
+e:\docs\course\table.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Course.vcxproj -> E:\Docs\Course\Debug\Course.exe
